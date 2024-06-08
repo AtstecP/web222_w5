@@ -90,9 +90,11 @@ footer {
   padding: 10px;
 }
 .spotify-iframe {
-  width: 30%;
-  height: 80px;
+  width: 40%;
+  height: 200px;
+  margin-top: 0;
   margin-bottom: 0;
+  margin-right: 20%;
   margin-left: 20%;
   padding-right: 20%;
 }
